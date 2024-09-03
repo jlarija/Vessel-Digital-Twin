@@ -1,5 +1,3 @@
-﻿# ntnu-digitial-twin
-
 # Vessel Movement Simulation in the Ocean
 
 This project simulates the movement of a vessel in the ocean using an Adaptive Extended Kalman Filter (AEKF). The web-based demonstration is built with React for the frontend, Flask for the backend, and Python for the core algorithm and trajectory calculations.
